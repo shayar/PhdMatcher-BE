@@ -38,8 +38,8 @@ AI-powered PhD Advisor Matching Platform backend built with FastAPI, providing i
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/phd-advisor-backend.git
-   cd phd-advisor-backend
+   git clone https://github.com/shayar/PhdMatcher-BE.git
+   cd PhdMatcher-BE
    ```
 
 2. **Copy environment variables**
@@ -65,8 +65,8 @@ AI-powered PhD Advisor Matching Platform backend built with FastAPI, providing i
 1. **Clone and setup virtual environment**
 
    ```bash
-   git clone https://github.com/yourusername/phd-advisor-backend.git
-   cd phd-advisor-backend
+   git clone https://github.com/shayar/PhdMatcher-BE.git
+   cd PhdMatcher-BE
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
@@ -346,9 +346,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Issues and Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/yourusername/phd-advisor-backend/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/phd-advisor-backend/discussions)
-- **Email**: support@yourproject.com
+- **Bug Reports**: [GitHub Issues](https://github.com/shayar/PhdMatcher-BE/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/shayar/PhdMatcher-BE/discussions)
+- **Email**: shayarshrestha7@gmail.com
 
 ---
 
